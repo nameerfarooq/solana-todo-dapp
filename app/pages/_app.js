@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
     return (
         <>
             <Head>
-                <title>Todo App</title>
+                <title>Solana Todo App</title>
             </Head>
             <main>
                 {/* Wrap provider around App */}
